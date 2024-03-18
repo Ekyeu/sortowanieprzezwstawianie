@@ -1,0 +1,14 @@
+C:\Users\Egzamin\source\repos\sortowanieprzezwstawianie\sortowanieprzezwstawianie\bin\Debug\net6.0\sortowanieprzezwstawianie.exe
+C:\Users\Egzamin\source\repos\sortowanieprzezwstawianie\sortowanieprzezwstawianie\bin\Debug\net6.0\sortowanieprzezwstawianie.deps.json
+C:\Users\Egzamin\source\repos\sortowanieprzezwstawianie\sortowanieprzezwstawianie\bin\Debug\net6.0\sortowanieprzezwstawianie.runtimeconfig.json
+C:\Users\Egzamin\source\repos\sortowanieprzezwstawianie\sortowanieprzezwstawianie\bin\Debug\net6.0\sortowanieprzezwstawianie.dll
+C:\Users\Egzamin\source\repos\sortowanieprzezwstawianie\sortowanieprzezwstawianie\bin\Debug\net6.0\sortowanieprzezwstawianie.pdb
+C:\Users\Egzamin\source\repos\sortowanieprzezwstawianie\sortowanieprzezwstawianie\obj\Debug\net6.0\sortowanieprzezwstawianie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egzamin\source\repos\sortowanieprzezwstawianie\sortowanieprzezwstawianie\obj\Debug\net6.0\sortowanieprzezwstawianie.AssemblyInfoInputs.cache
+C:\Users\Egzamin\source\repos\sortowanieprzezwstawianie\sortowanieprzezwstawianie\obj\Debug\net6.0\sortowanieprzezwstawianie.AssemblyInfo.cs
+C:\Users\Egzamin\source\repos\sortowanieprzezwstawianie\sortowanieprzezwstawianie\obj\Debug\net6.0\sortowanieprzezwstawianie.csproj.CoreCompileInputs.cache
+C:\Users\Egzamin\source\repos\sortowanieprzezwstawianie\sortowanieprzezwstawianie\obj\Debug\net6.0\sortowanieprzezwstawianie.dll
+C:\Users\Egzamin\source\repos\sortowanieprzezwstawianie\sortowanieprzezwstawianie\obj\Debug\net6.0\refint\sortowanieprzezwstawianie.dll
+C:\Users\Egzamin\source\repos\sortowanieprzezwstawianie\sortowanieprzezwstawianie\obj\Debug\net6.0\sortowanieprzezwstawianie.pdb
+C:\Users\Egzamin\source\repos\sortowanieprzezwstawianie\sortowanieprzezwstawianie\obj\Debug\net6.0\sortowanieprzezwstawianie.genruntimeconfig.cache
+C:\Users\Egzamin\source\repos\sortowanieprzezwstawianie\sortowanieprzezwstawianie\obj\Debug\net6.0\ref\sortowanieprzezwstawianie.dll
